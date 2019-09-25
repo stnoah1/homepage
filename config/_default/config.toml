@@ -5,7 +5,7 @@
 # Each configuration section is defined by a name in square brackets (e.g. `[outputs]`).
 
 # Title of your site
-title = "Hyung-gun's hompage"
+title = "Hyung-gun Chi"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
@@ -16,7 +16,7 @@ baseurl = "/"
 copyright = "&copy; {year} Hyung-gun Chi"
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-148717724-1"
 
 ############################
 ## Advanced options below ##

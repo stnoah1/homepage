@@ -30,7 +30,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Python Developer"
   company = "Financial Institute"
-  company_url = ""
+  company_url = "https://financialinsight.co.kr/"
   location = "Seoul, South Korea"
   date_start = "2018-01-01"
   date_end = "2018-07-31"
