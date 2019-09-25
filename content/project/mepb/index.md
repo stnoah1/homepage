@@ -3,7 +3,7 @@
 
 title: "A Large-scale Engineering Part Benchmark Dataset for Deep Neural Networks"
 summary: "We introduce a large-scale engineering part benchmark dataset for deep neural network in mechanical engineering domain named Deep Engineering Part Benchmark."
-authors: ["Sangpil Kim", "Hyung-gun Chi", "Karthik Ramani"]
+authors: ["Hyung-gun Chi*", "Sangpil Kim*" , "Karthik Ramani"]
 tags: []
 categories: []
 date: 2019-09-25T03:57:11-04:00
