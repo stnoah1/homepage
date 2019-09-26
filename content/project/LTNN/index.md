@@ -3,7 +3,7 @@
 
 title: "Latent Transformations Neural Network for Object View Synthesis"
 summary: "We introduce a dedicated network component, the conditional transformation unit."
-authors: ["Sangpil Kim", "Nick Winovich", "Hyun-Gun Chi", "Guang Lin", "Karthik Ramani"]
+authors: ["Sangpil Kim", "Nick Winovich", "Hyung-Gun Chi", "Guang Lin", "Karthik Ramani"]
 tags: []
 categories: []
 date: 2019-09-25T03:43:27-04:00

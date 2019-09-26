@@ -3,7 +3,7 @@
 
 title: "An Evaluation Methodology for 3D DNN using Visualization in 3D Data Classification"
 summary: "We develop and propose a 3D deep neural network visualization methodology for performance evaluation of 3D deep neural networks."
-authors: ["Hyun-Tae Hwang", "Hyung Gun Chi", "Nam Kyu Kang", "Hyeon Bae Kong", "Jiaqi Lu", "Hyungseok Ohk", "Soo-Hong Lee"]
+authors: ["Hyun-Tae Hwang", "Hyung-Gun Chi", "Nam Kyu Kang", "Hyeon Bae Kong", "Jiaqi Lu", "Hyungseok Ohk", "Soo-Hong Lee"]
 tags: []
 categories: [3D Computer Vision]
 date: 2016-09-25T03:00:19-04:00
