@@ -19,12 +19,13 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Graduate Assistant"
-  company = "C-DESIGN LAB, Purdue University"
-  company_url = "https://engineering.purdue.edu/cdesign/wp/"
+  company = "Purdue University"
+  company_url = "https://www.purdue.edu/"
   location = "West Lafayette, IN, USA"
   date_start = "2018-08-01"
   date_end = ""
   description = """
+  Working in a [C-DESIGN LAB](https://engineering.purdue.edu/cdesign/wp/). 3D computer vision and AR/VR research. Advised by Professor [Kartik Ramani](https://engineering.purdue.edu/~ramani/wordpress/about/).
   """
 
 [[experience]]
@@ -44,6 +45,7 @@ date_format = "Jan 2006"
   date_start = "2016-09-01"
   date_end = "2017-08-31"
   description = """
+  Developed office automation program and customer web-service.
   """
 [[experience]]
   title = "Engineer & Sergent"
@@ -53,14 +55,16 @@ date_format = "Jan 2006"
   date_start = "2011-04-11"
   date_end = "2013-01-10"
   description = """
+  Worked as a mechanic.
   """
 [[experience]]
   title = "Undergraduate Researcher"
-  company = "Knowledge-Based Lab, Yonsei University"
-  company_url = "http://kbd.yonsei.ac.kr/"
+  company = "Yonsei University"
+  company_url = "https://www.yonsei.ac.kr/"
   location = "Seoul, South Korea"
   date_start = "2016-02-01"
   date_end = "2016-08-31"
   description = """
+  3D computer vision research. Advised by Professor [Soo-Hong Lee](http://kbd.yonsei.ac.kr/) directing [Knowledge-Based Lab](http://kbd.yonsei.ac.kr/).
   """
 +++
