@@ -50,7 +50,7 @@ social:
   link: https://scholar.google.com/citations?user=3_l59DIAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gstnoah1
+  link: https://github.com/stnoah1
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/hyung-gun/
