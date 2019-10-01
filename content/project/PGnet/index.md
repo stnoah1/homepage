@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Object synthesis by learning part geometry with multi-tasks"
+title: "Object synthesis by learning part geometry with surface and volumetric representations"
 summary: "We propose a conditional generative model, named Part Geometry Network (PG-Net), which synthesizes realistic objects and can be used as a robust feature descriptor for object reconstruction and classification."
 authors: ["Sangpil Kim", "Hyung-gun Chi", "Karthik Ramani"]
 tags: []
@@ -28,7 +28,7 @@ image:
 #   icon: twitter
 
 url_code: ""
-url_pdf: "https://github.com/stnoah1/CV/raw/master/documents/cag19.pdf"
+url_pdf: "https://github.com/stnoah1/CV/raw/master/documents/CAD.pdf"
 url_slides: ""
 url_video: ""
 
