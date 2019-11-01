@@ -65,6 +65,6 @@ date_format = "Jan 2006"
   date_start = "2016-02-01"
   date_end = "2016-08-31"
   description = """
-  3D computer vision research. Advised by Professor [Soo-Hong Lee](http://kbd.yonsei.ac.kr/) directing [Knowledge-Based Lab](http://kbd.yonsei.ac.kr/).
+  3D computer vision research. Advised by Professor [Soo-Hong Lee](http://kbd.yonsei.ac.kr/index.php?mid=page_EbTN09) directing [Knowledge-Based Lab](http://kbd.yonsei.ac.kr/).
   """
 +++
