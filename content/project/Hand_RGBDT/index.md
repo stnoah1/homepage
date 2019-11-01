@@ -8,7 +8,7 @@ We propose a robust pixel-wise hand segmentation method with deep neural network
 authors: ["Sangpil Kim", "Hyung-gun Chi", "Karthik Ramani"]
 tags: []
 categories: []
-date: 2019-11-01T03:39:12-04:00
+date: 2019-10-31T03:39:12-04:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
