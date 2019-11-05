@@ -70,4 +70,4 @@ email: ""
 # - Researchers
 # - Visitors
 ---
-I am a Master student in the Mechanical Engineering Department at Purdue University advised by Professor [Kartik Ramani](https://engineering.purdue.edu/~ramani/wordpress/about/). My research interests lie at the intersection of Computer Vision and Robotics, focusing on 3D Geometric Deep Learning for recognizing and synthesizing 3D objects. In this area, I applied machine learning (deep learning) algorithms for Augmented/Virtual Reality and Smart Factory.
+I am a Master student in the Mechanical Engineering Department at Purdue University advised by Professor [Karthik Ramani](https://engineering.purdue.edu/~ramani/wordpress/about/). My research interests lie at the intersection of Computer Vision and Robotics, focusing on 3D Geometric Deep Learning for recognizing and synthesizing 3D objects. In this area, I applied machine learning (deep learning) algorithms for Augmented/Virtual Reality and Smart Factory.
