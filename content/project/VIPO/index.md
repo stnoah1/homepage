@@ -5,7 +5,7 @@ title: "VIPO : A Spatial and Visual Programming Language for Mobile Robots and I
 summary: "
 We introduce VIPO, a web-based visual and spatial program- ming language that allows novice users and small industries to program mobile robots and IoT Nodes to execute planned tasks.
 "
-authors: ["Gaoping Huang", "Pawan Rao", "Hyung-gun Chi", "Xun Qian", "Luis Paredes", "Kartik Ramani"]
+authors: ["Gaoping Huang", "Pawan Rao", "Hyung-gun Chi", "Xun Qian", "Luis Paredes", "Karthik Ramani"]
 tags: []
 categories: []
 date: 2018-10-25T03:26:58-04:00

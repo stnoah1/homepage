@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   date_start = "2018-08-01"
   date_end = ""
   description = """
-  Working in a [C-DESIGN LAB](https://engineering.purdue.edu/cdesign/wp/). 3D computer vision and AR/VR research. Advised by Professor [Kartik Ramani](https://engineering.purdue.edu/~ramani/wordpress/about/).
+  Working in a [C-DESIGN LAB](https://engineering.purdue.edu/cdesign/wp/). 3D computer vision and AR/VR research. Advised by Professor [Karthik Ramani](https://engineering.purdue.edu/~ramani/wordpress/about/).
   """
 
 [[experience]]
