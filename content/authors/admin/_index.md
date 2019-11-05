@@ -21,11 +21,11 @@ organizations:
   url: "https://engineering.purdue.edu/cdesign/wp/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Master student in the Mechanical Engineering Department at Purdue University and member of [C DESIGN LAB](https://engineering.purdue.edu/cdesign/wp/) My research interests lie at the intersection of Computer Vision and Robotics, focusing on 3D Geometric Deep Learning for recognizing and synthesizing 3D objects. In this area, I applied machine learning (deep learning) algorithms for Augmented/Virtual Reality and Smart Factory.
+bio: I am a Master student in the Mechanical Engineering Department at Purdue University and member of [C DESIGN LAB](https://engineering.purdue.edu/cdesign/wp/) My research interests lie at the intersection of Computer Vision and Robotics, focusing on 3D Geometric Deep Learning for recognizing and synthesizing 3D objects. In this area, I applied Machine Learning (Deep Learning) algorithms for Augmented/Virtual Reality and Smart Factory.
 
 interests:
 - 3D Computer Vision
-- Deep Learning
+- Machine Learning / Deep Learning
 - Virtual / Augmented Reality
 
 education:
@@ -44,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:chi45@purdue.edu'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:chi45@purdue.edu'
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=3_l59DIAAAAJ
