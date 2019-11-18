@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "ControllAR"
+title: "SleekPatch"
 summary: "
 We present SleekPatch, a fabrication-workflow that enables the development of a self-contained and slim hand wearable that provides comfort, social acceptance, and mobility to facilitate interactions with mobile computing."
 authors: ["Luis Paredes", "Subramanian Chidambaram", "Xun Qian", "Hyung-gun Chi", "Karthik Ramani"]
@@ -29,7 +29,7 @@ image:
 #   icon: twitter
 
 url_code: ""
-url_pdf: "https://github.com/stnoah1/CV/raw/master/documents/ControllAR.pdf"
+url_pdf: "https://github.com/stnoah1/CV/raw/master/documents/SleekPatch.pdf"
 url_slides: ""
 url_video: ""
 

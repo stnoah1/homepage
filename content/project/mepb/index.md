@@ -27,7 +27,7 @@ image:
 #   icon: twitter
 
 url_code: ""
-url_pdf: ""
+url_pdf: "https://github.com/stnoah1/CV/raw/master/documents/MCB.pdf"
 url_slides: ""
 url_video: ""
 
