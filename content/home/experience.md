@@ -18,47 +18,37 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Graduate Assistant"
+  title = "Graduate Research Assistant"
   company = "Purdue University"
   company_url = "https://www.purdue.edu/"
   location = "West Lafayette, IN, USA"
   date_start = "2018-08-01"
   date_end = ""
   description = """
-  Working in a [C-DESIGN LAB](https://engineering.purdue.edu/cdesign/wp/). 3D computer vision and AR/VR research. Advised by Professor [Karthik Ramani](https://engineering.purdue.edu/~ramani/wordpress/about/).
-  """
-
-[[experience]]
-  title = "Python Developer"
-  company = "Financial Institute"
-  company_url = "https://financialinsight.co.kr/"
-  location = "Seoul, South Korea"
-  date_start = "2018-01-01"
-  date_end = "2018-07-31"
-  description = """
+  Working in the [C-DESIGN LAB](https://engineering.purdue.edu/cdesign/wp/). 3D computer vision and AR/VR research. Advised by Professor [Karthik Ramani](https://engineering.purdue.edu/~ramani/wordpress/about/).
   """
 [[experience]]
-  title = "CEO & Python Developer"
+  title = "CEO & Software Engineer"
   company = "NeilLab Corporation"
   company_url = "https://www.neillab.com/"
   location = "Seoul, South Korea"
   date_start = "2016-09-01"
-  date_end = "2017-08-31"
+  date_end = "2017-12-31"
   description = """
-  Developed office automation program and customer web-service.
+  Found and lead a satart-up company which developing Robotic Process Automation (RPA) program and providing customer web-service.
   """
 [[experience]]
-  title = "Engineer & Sergent"
+  title = "Mechanic & Sergent"
   company = "Republic of Korea Army"
   company_url = "http://www.army.mil.kr/webapp/user/indexMain.do?siteId=english"
   location = "Inje, South Korea"
   date_start = "2011-04-11"
   date_end = "2013-01-10"
   description = """
-  Worked as a mechanic.
+  2-year military service in the ROKA 12th Infantry Division.
   """
 [[experience]]
-  title = "Undergraduate Researcher"
+  title = "Undergraduate Research Assistant"
   company = "Yonsei University"
   company_url = "https://www.yonsei.ac.kr/"
   location = "Seoul, South Korea"

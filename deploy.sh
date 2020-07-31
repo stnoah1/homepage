@@ -8,6 +8,10 @@ printf "\033[0;32mDeploying updates to GitHub...\033[0m\n"
 # Build the project.
 hugo -t academic # if using a theme, replace with `hugo -t <YOURTHEME>`
 
+# update CV
+printf "\033[0;32mUpdate CV.pdf...\033[0m\n"
+wget https://github.com/stnoah1/CV/raw/master/CV.pdf -O public/files/CV.pdf
+
 # Go To Public folder
 cd public
 

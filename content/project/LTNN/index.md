@@ -28,7 +28,7 @@ image:
 #   icon: twitter
 
 url_code: ""
-url_pdf: "https://github.com/stnoah1/CV/raw/master/documents/VisualComputer.pdf"
+url_pdf: "files/visual_computer.pdf"
 url_slides: ""
 url_video: ""
 
@@ -39,6 +39,6 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-**Abstract** 
+**Abstract**
 
 We propose a fully-convolutional conditional generative neural network, the latent transformation neural network (LTNN), capable of rigid and non-rigid object view synthesis using a light-weight architecture suited for real-time applications and embedded systems. In contrast to existing object view synthesis methods which incorporate conditioning information via concatenation, we introduce a dedicated network component, the conditional transformation unit. This unit is designed to learn the latent space transformations corresponding to specified target views. In addition, a consistency loss term is defined to guide the network toward learning the desired latent space mappings, a taskdivided decoder is constructed to refine the quality of generated views of objects, and an adaptive discriminator is introduced to improve the adversarial training process. The generalizability of the proposed methodology is demonstrated on a collection of three diverse tasks: multi-view synthesis on real hand depth images, view synthesis of real and synthetic faces, and the rotation of rigid objects. The proposed model is shown to be comparable with state-of-the-art methods in SSIM and L1 metrics while simultaneously achieving a reduction in the computational demand and memory consumption for inference.

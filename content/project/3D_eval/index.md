@@ -28,7 +28,7 @@ image:
 #   icon: twitter
 
 url_code: ""
-url_pdf: "https://github.com/stnoah1/CV/raw/master/documents/MEST.pdf"
+url_pdf: "files/JMST.pdf"
 url_slides: ""
 url_video: ""
 

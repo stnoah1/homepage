@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Master Student
+role: Graduate Research Assistant
 
 # Organizations/Affiliations
 organizations:
@@ -21,21 +21,21 @@ organizations:
   url: "https://engineering.purdue.edu/cdesign/wp/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Master student in the Mechanical Engineering Department at Purdue University and member of [C DESIGN LAB](https://engineering.purdue.edu/cdesign/wp/) My research interests lie at the intersection of Computer Vision and Robotics, focusing on 3D Geometric Deep Learning for recognizing and synthesizing 3D objects. In this area, I applied Machine Learning (Deep Learning) algorithms for Augmented/Virtual Reality and Smart Factory.
+bio: I am a PhD student in the Electrical and Computer Engineering (ECE) at Purdue University and member of [C DESIGN LAB](https://engineering.purdue.edu/cdesign/wp/). My research interests lie at the intersection of Computer Vision and Robotics, focusing on 3D Geometric Deep Learning for recognizing and synthesizing 3D objects. In this area, I apply Machine/Deep Learning algorithms for Augmented/Virtual Reality and Smart Factory.
 
 interests:
 - 3D Computer Vision
-- Machine Learning / Deep Learning
+- Machine / Deep Learning
 - Virtual / Augmented Reality
 
 education:
   courses:
-  - course: MS in Mechanical Engineering
+  - course: PhD in Electrical and Computer Engineering
     institution: Purdue University
-    year: 2020
+    year: 2018 - Present
   - course: BS in Mechanical Engineering
     institution: Yonsei University
-    year: 2017
+    year: 2010 - 2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -54,20 +54,20 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/hyung-gun/
-  
+
 # Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: https://github.com/stnoah1/CV/raw/master/CV.pdf
+  link: files/CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
-  
+
 # Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.  
+#   Set this to `[]` or comment out if you are not using People widget.
 # user_groups:
 # - Researchers
 # - Visitors
 ---
-I am a Master student in the Mechanical Engineering Department at Purdue University advised by Professor [Karthik Ramani](https://engineering.purdue.edu/~ramani/wordpress/about/). My research interests lie at the intersection of Computer Vision and Robotics, focusing on 3D Geometric Deep Learning for recognizing and synthesizing 3D objects. In this area, I applied Machine Learning (Deep Learning) algorithms for Augmented/Virtual Reality and Smart Factory.
+I am a PhD student in the Electrical and Computer Engineering at Purdue University advised by Professor [Karthik Ramani](https://engineering.purdue.edu/~ramani/wordpress/about/). My research interests lie at the intersection of Computer Vision and Robotics, focusing on 3D Geometric Deep Learning and Temporal Action analysis. In this area, I apply Machine/Deep Learning algorithms for Virtual/Augmented Reality and Smart Factory.

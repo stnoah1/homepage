@@ -28,7 +28,7 @@ image:
 #   icon: twitter
 
 url_code: ""
-url_pdf: "https://github.com/stnoah1/CV/raw/master/documents/CAD.pdf"
+url_pdf: "files/CAD.pdf"
 url_slides: ""
 url_video: ""
 
