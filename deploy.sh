@@ -12,6 +12,22 @@ hugo -t academic # if using a theme, replace with `hugo -t <YOURTHEME>`
 printf "\033[0;32mUpdate CV.pdf...\033[0m\n"
 wget https://github.com/stnoah1/CV/raw/master/CV.pdf -O public/files/CV.pdf
 
+
+# Commit changes.
+msg="rebuilding site $(date)"
+if [ -n "$*" ]; then
+	msg="$*"
+fi
+
+# Commit source code
+git pull
+git add .
+
+git commit -m "$msg"
+
+# Push source and build repos.
+git push origin master
+
 # Go To Public folder
 cd public
 
@@ -19,11 +35,6 @@ cd public
 git pull
 git add .
 
-# Commit changes.
-msg="rebuilding site $(date)"
-if [ -n "$*" ]; then
-	msg="$*"
-fi
 git commit -m "$msg"
 
 # Push source and build repos.
