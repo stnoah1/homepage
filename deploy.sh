@@ -20,13 +20,13 @@ if [ -n "$*" ]; then
 fi
 
 # Commit source code
-git pull
-git add .
+#git pull
+#git add .
 
-git commit -m "$msg"
+#git commit -m "$msg"
 
-# Push source and build repos.
-git push origin master
+## Push source and build repos.
+#git push origin master
 
 # Go To Public folder
 cd public

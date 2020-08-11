@@ -6,7 +6,7 @@ summary: "We develop and propose a 3D deep neural network visualization methodol
 authors: ["Hyun-Tae Hwang", "Hyung-Gun Chi", "Nam Kyu Kang", "Hyeon Bae Kong", "Jiaqi Lu", "Hyungseok Ohk", "Soo-Hong Lee"]
 tags: []
 categories: [3D Computer Vision]
-date: 2016-09-25T03:00:19-04:00
+date: 2019-02-25T03:00:19-04:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -41,4 +41,4 @@ slides: ""
 ---
 **Abstract**
 
-"Making 3D deep neural networks debuggable". In the study, we develop and propose a 3D deep neural network visualization methodology for performance evaluation of 3D deep neural networks. Our research was conducted using a 3D deep neural network model, which shows the best performance. The visualization method of the research is a method of visualizing part of the 3D object by analyzing the naive Bayesian 3D complement instance generation method and the prediction difference of each feature. The method emphasizes the influence of the network in the process of making decisions. The result of visualization through the algorithm of the study shows a clear difference based on the result class and the instance within the class, and the authors can obtain insight that can evaluate and improve the performance of the DNN (Deep Neural Networks) model by the analyzed results. 3D deep neural networks can be made "indirectly debug- gable," and after the completion of the visualization method and the analysis of the result, the method can be used as the evaluation method of "general non-debuggable DNN" and as a debugging method.
+"Making 3D deep neural networks debuggable". In the study, we develop and propose a 3D deep neural network visualization methodology for performance evaluation of 3D deep neural networks. Our research was conducted using a 3D deep neural network model, which shows the best performance. The visualization method of the research is a method of visualizing part of the 3D object by analyzing the naive Bayesian 3D complement instance generation method and the prediction difference of each feature. The method emphasizes the influence of the network in the process of making decisions. The result of visualization through the algorithm of the study shows a clear difference based on the result class and the instance within the class, and the authors can obtain insight that can evaluate and improve the performance of the DNN (Deep Neural Networks) model by the analyzed results. 3D deep neural networks can be made "indirectly debuggable," and after the completion of the visualization method and the analysis of the result, the method can be used as the evaluation method of "general non-debuggable DNN" and as a debugging method.

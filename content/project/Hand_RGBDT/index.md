@@ -5,7 +5,7 @@ title: "First-Person View Hand Segmentation while Interacting with Objects with 
 summary: "
 We propose a robust pixel-wise hand segmentation method with deep neural networks by learning hand articulations from colors and depth features and auxiliary modality features.
 "
-authors: ["Sangpil Kim", "Hyung-gun Chi", "Asim Unmesh", "Karthik Ramani"]
+authors: ["Sangpil Kim", "Hyung-gun Chi", "Xiao Hu", "Karthik Ramani"]
 tags: []
 categories: []
 date: 2019-10-31T03:39:12-04:00
