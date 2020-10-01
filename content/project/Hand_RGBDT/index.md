@@ -30,7 +30,7 @@ image:
 #   icon: twitter
 
 url_code: ""
-url_pdf: "files/BMVC.pdf"
+url_pdf: "https://www.bmvc2020-conference.com/assets/papers/0570.pdf"
 url_slides: ""
 url_video: ""
 

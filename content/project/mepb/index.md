@@ -27,7 +27,7 @@ image:
 #   icon: twitter
 
 url_code: "https://github.com/stnoah1/mcb"
-url_pdf: "files/mcb.pdf"
+url_pdf: "https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123630171.pdf"
 url_slides: ""
 url_video: ""
 

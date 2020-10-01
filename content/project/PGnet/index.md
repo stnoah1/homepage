@@ -28,7 +28,7 @@ image:
 #   icon: twitter
 
 url_code: ""
-url_pdf: "files/CAD.pdf"
+url_pdf: "https://www.sciencedirect.com/science/article/pii/S0010448520301251"
 url_slides: ""
 url_video: ""
 

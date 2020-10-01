@@ -10,7 +10,7 @@ hugo -t academic # if using a theme, replace with `hugo -t <YOURTHEME>`
 
 # update CV
 printf "\033[0;32mUpdate CV.pdf...\033[0m\n"
-wget https://github.com/stnoah1/CV/raw/master/CV.pdf -O public/files/CV.pdf
+wget https://github.com/stnoah1/CV/raw/master/CV.pdf -O static/files/CV.pdf
 
 
 # Commit changes.
