@@ -4,7 +4,7 @@
 
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false # Activate this widget? true/false
+active = true # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 title = "Publications"
@@ -15,7 +15,7 @@ subtitle = ""
   page_type = "publication"
 
   # Choose how much pages you would like to display (0 = all pages)
-  count = 5
+  count = 9
 
   # Choose how many pages you would like to offset by
   offset = 0
@@ -36,7 +36,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 4
+  view = 2
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -66,6 +66,6 @@ subtitle = ""
  css_class = ""
 +++
 
-{{% alert note %}}
-Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
-{{% /alert %}}
+<!--{{% alert note %}}-->
+<!--Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).-->
+<!--{{% /alert %}}-->

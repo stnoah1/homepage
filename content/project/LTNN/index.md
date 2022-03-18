@@ -28,7 +28,7 @@ image:
 #   icon: twitter
 
 url_code: ""
-url_pdf: "files/visual_computer.pdf"
+url_pdf: "http://doi.org/10.1007/s00371-019-01755-x"
 url_slides: ""
 url_video: ""
 

@@ -28,7 +28,7 @@ image:
 #   icon: twitter
 
 url_code: ""
-url_pdf: "files/JMST.pdf"
+url_pdf: "https://www.doi.org/10.1007/s12206-019-0233-1"
 url_slides: ""
 url_video: ""
 

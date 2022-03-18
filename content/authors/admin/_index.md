@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Graduate Research Assistant
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
@@ -21,12 +21,12 @@ organizations:
   url: "https://engineering.purdue.edu/cdesign/wp/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a PhD student in the Electrical and Computer Engineering (ECE) at Purdue University and member of [C DESIGN LAB](https://engineering.purdue.edu/cdesign/wp/). My research interests lie at the intersection of Computer Vision and Robotics, focusing on 3D Geometric Deep Learning for recognizing and synthesizing 3D objects. In this area, I apply Machine/Deep Learning algorithms for Augmented/Virtual Reality and Smart Factory.
+bio: I am a PhD student in Electrical and Computer Engineering (ECE) at Purdue University and member of [C DESIGN LAB](https://engineering.purdue.edu/cdesign/wp/). My research interests lie in the fields of Computer Vision and Machine Learning. More specifically, I am interested in Geometric 3D Deep Learning, Human Action Representation Learning, and Generative Adversarial Networks.
 
 interests:
+- Machine Learning
+- Human Motion Representation
 - 3D Computer Vision
-- Machine / Deep Learning
-- Virtual / Augmented Reality
 
 education:
   courses:
@@ -44,9 +44,9 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:chi45@purdue.edu'
-- icon: google-scholar
-  icon_pack: ai
+  link: 'mailto:hgchi@purdue.edu'
+- icon: graduation-cap
+  icon_pack: fas
   link: https://scholar.google.com/citations?user=3_l59DIAAAAJ
 - icon: github
   icon_pack: fab
@@ -70,4 +70,4 @@ email: ""
 # - Researchers
 # - Visitors
 ---
-I am a PhD student in the Electrical and Computer Engineering at Purdue University advised by Professor [Karthik Ramani](https://engineering.purdue.edu/~ramani/wordpress/about/). My research interests lie at the intersection of Computer Vision and Robotics, focusing on 3D Geometric Deep Learning and Temporal Action analysis. In this area, I apply Machine/Deep Learning algorithms for Virtual/Augmented Reality and Smart Factory.
+I am a PhD student in Electrical and Computer Engineering at Purdue University advised by Professor [Karthik Ramani](https://engineering.purdue.edu/~ramani/wordpress/about/). My research interests lie in the fields of Computer Vision and Machine Learning. More specifically, I am interested in Geometric 3D Deep Learning, Human Action Representation Learning, and Generative Adversarial Networks.

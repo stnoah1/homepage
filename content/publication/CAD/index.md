@@ -3,11 +3,11 @@
 
 title: "Object synthesis by learning part geometry with surface and volumetric representations"
 authors: ["Sangpil Kim", "Hyung-gun Chi", "Karthik Ramani"]
-date: 2020-05-30T23:27:56-04:00
-doi: ""
+date: 2021-05-30T23:27:56-04:00
+doi: "10.1016/j.cad.2020.102932"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-05-30T23:27:56-04:00
+publishDate: 2021-05-30T23:27:56-04:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -22,7 +22,7 @@ publication_short: ""
 abstract: "We propose a conditional generative model, named Part Geometry Network (PG-Net), which synthesizes realistic objects and can be used as a robust feature descriptor for object reconstruction and classification. PG-Net adopts multi-task learning by estimat- ing surface and volumetric representations. Surface and volumetric representations of objects have complementary properties of three-dimensional objects. Combining these modalities is more informative than using one modality alone. Objects are combina- tions of functional parts and part geometry is essential to synthesize each part of ob- jects; therefore, PG-Net employs a part identifier to learn part geometry. Additionally, we augmented a dataset by interpolating individual parts, which helps learning part ge- ometry and finding local/global minima of PG-Net. To demonstrate the capability of learnt object representations of PG-Net. We performed object reconstruction and clas- sification tasks on two standard-large-scale datasets. PG-Net outperformed the other state-of-the-art methods in object synthesis, classification, and reconstruction."
 
 # Summary. An optional shortened abstract.
-summary: ""
+summary: "Computer-Aided Design 130, 102932, 2021"
 
 tags: []
 categories: []
@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "files/CAD.pdf"
+url_pdf: "https://www.sciencedirect.com/science/article/pii/S0010448520301251"
 url_code:
 url_dataset:
 url_poster:

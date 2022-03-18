@@ -21,7 +21,7 @@ publication_short: "Journal of Mechanical Science and Technology"
 
 abstract: "'Making 3D deep neural networks interpretable'. In the study, we develop and propose a 3D deep neural network visualization methodology for performance evaluation of 3D deep neural networks. Our research was conducted using a 3D deep neural network model, which shows the best performance. The visualization method of the research is a method of visualizing part of the 3D object by analyzing the naive Bayesian 3D complement instance generation method and the prediction difference of each feature. The method emphasizes the influence of the network in the process of making decisions. The result of visualization through the algorithm of the study shows a clear difference based on the result class and the instance within the class, and the authors can obtain insight that can evaluate and improve the performance of the DNN (deep neural networks) model by the analyzed results. 3D deep neural networks can be made 'indirectly debuggable', and after the completion of the visualization method and the analysis of the result, the method can be used as the evaluation method of 'general non-interpretable DNN' and as a debugging method."
 # Summary. An optional shortened abstract.
-summary: ""
+summary: "Journal of Mechanical Science and Technology 33 (3), 1333-1339, 2019"
 
 tags: []
 categories: []
@@ -35,7 +35,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "files/JMST.pdf"
+url_pdf: "https://link.springer.com/article/10.1007/s12206-019-0233-1"
 url_code:
 url_dataset:
 url_poster:

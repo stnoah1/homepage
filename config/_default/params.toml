@@ -44,7 +44,7 @@ local_business_type = ""
 org_name = "Purdue University"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "Hyung-gun's personal webpage"
+description = "Hyung-gun's personal webpage. PhD student in the Electrical and Computer Engineering (ECE) at Purdue University advised by Professor Karthik Ramani. My research interests lie at the intersection of Computer Vision and Robotics, focusing on 3D Geometric Deep Learning and Temporal Action analysis. In this area, I apply Machine/Deep Learning algorithms for Virtual/Augmented Reality and Smart Factory."
 
 # Display a logo in navigation bar rather than title (optional).
 #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
@@ -97,7 +97,7 @@ address = {street = "610 Purdue Mall, ME 3771", city = "West Lafayette", region 
 coordinates = {latitude = "40.428401", longitude = "-86.913229"}
 
 # Directions for visitors to locate you.
-directions = "Enter Mechanical Engineering Building and take the stairs to Office 3771 on Floor 3"
+directions = "Enter Mechanical Engineering Building and take the stairs to Office 3171 on Floor 3"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
