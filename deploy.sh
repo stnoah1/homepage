@@ -20,22 +20,22 @@ if [ -n "$*" ]; then
 fi
 
 # Commit source code
-#git pull
-#git add .
-
-#git commit -m "$msg"
-
-## Push source and build repos.
-#git push origin master
-
-# Go To Public folder
-cd public
-
-# Add changes to git.
 git pull
 git add .
 
 git commit -m "$msg"
 
-# Push source and build repos.
+## Push source and build repos.
 git push origin master
+
+# Go To Public folder
+cd public
+
+# Add changes to git.
+#git pull
+git add .
+
+git commit -m "$msg"
+
+# Push source and build repos.
+git push -u origin main 

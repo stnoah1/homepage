@@ -10,14 +10,14 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Student
+role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
 - name: Purdue University
   url: "https://www.purdue.edu/"
 
-- name: C-DESIGN LAB
+- name: Convergence Design Lab
   url: "https://engineering.purdue.edu/cdesign/wp/"
 
 # Short bio (displayed in user profile at end of posts)
@@ -30,12 +30,15 @@ interests:
 
 education:
   courses:
-  - course: PhD in Electrical and Computer Engineering
+  - course: PHD in Electrical and Computer Engineering
     institution: Purdue University
-    year: 2018 - Present
+    year: 2023 (expected)
+  - course: MS in Electrical and Computer Engineering
+    institution: Purdue University
+    year: 2022
   - course: BS in Mechanical Engineering
     institution: Yonsei University
-    year: 2010 - 2017
+    year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -59,7 +62,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: files/CV.pdf
+  link: static/files/CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""

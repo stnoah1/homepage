@@ -18,6 +18,26 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Research Intern"
+  company = "Honda Research Institute USA"
+  company_url = "http://usa.honda-ri.com"
+  location = "San Jose, CA, USA"
+  date_start = "2023-01-16"
+  date_end = "2023-04-25"
+  description = """
+  Conduct research on human pose prediction for autonomous vehicles.
+  """
+[[experience]]
+  title = "Research Intern"
+  company = "Honda Research Institute USA"
+  company_url = "http://usa.honda-ri.com"
+  location = "San Jose, CA, USA"
+  date_start = "2022-05-23"
+  date_end = "2022-08-19"
+  description = """
+  Conduct research on spatial future action localization for autonomous vehicles.
+  """
+[[experience]]
   title = "Graduate Research Assistant"
   company = "Purdue University"
   company_url = "https://www.purdue.edu/"
@@ -25,7 +45,8 @@ date_format = "Jan 2006"
   date_start = "2018-08-01"
   date_end = ""
   description = """
-  Working in the [C-DESIGN LAB](https://engineering.purdue.edu/cdesign/wp/). 3D computer vision and AR/VR research. Advised by Professor [Karthik Ramani](https://engineering.purdue.edu/~ramani/wordpress/about/).
+  Member of [Converngence Design Lab](https://engineering.purdue.edu/cdesign/wp/). Advised by Professor [Karthik Ramani](https://engineering.purdue.edu/~ramani/wordpress/about/).
+  Conduct research on Human Action Understanding and 3D Computer Vision and their application in AR/VR devices.
   """
 [[experience]]
   title = "CEO & Software Engineer"
@@ -35,17 +56,7 @@ date_format = "Jan 2006"
   date_start = "2016-09-01"
   date_end = "2017-12-31"
   description = """
-  Found and lead a satart-up company which developing Robotic Process Automation (RPA) program and providing customer web-service.
-  """
-[[experience]]
-  title = "Mechanic & Sergent"
-  company = "Republic of Korea Army"
-  company_url = "http://www.army.mil.kr/webapp/user/indexMain.do?siteId=english"
-  location = "Inje, South Korea"
-  date_start = "2011-04-11"
-  date_end = "2013-01-10"
-  description = """
-  2-year military service in the ROKA 12th Infantry Division.
+  I found and lead a start-up company that develops Robotic Process Automation (RPA) program for office work and provides web-based customer service.
   """
 [[experience]]
   title = "Undergraduate Research Assistant"
@@ -55,6 +66,17 @@ date_format = "Jan 2006"
   date_start = "2016-02-01"
   date_end = "2016-08-31"
   description = """
-  3D computer vision research. Advised by Professor [Soo-Hong Lee](http://kbd.yonsei.ac.kr/index.php?mid=page_EbTN09) directing [Knowledge-Based Lab](http://kbd.yonsei.ac.kr/).
+  3D Computer Vision research. Advised by Professor [Soo-Hong Lee](http://kbd.yonsei.ac.kr/index.php?mid=page_EbTN09) directing [Knowledge-Based Lab](http://kbd.yonsei.ac.kr/).
   """
+
+# [[experience]]
+#  title = "Mechanic & Sergent"
+#  company = "Republic of Korea Army"
+#  company_url = "http://www.army.mil.kr/webapp/user/indexMain.do?siteId=english"
+#  location = "Inje, South Korea"
+#  date_start = "2011-04-11"
+#  date_end = "2013-01-10"
+#  description = """
+#  2-year military service in the Korean Army
+#  """
 +++

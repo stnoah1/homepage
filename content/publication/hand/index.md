@@ -22,7 +22,7 @@ publication_short: ""
 abstract: "We introduce a multi-stage framework that uses mean curvature on a hand surface and focuses on learning interaction between hand and object by analyzing hand grasp type for hand action recognition in egocentric videos. The proposed method does not require 3D information of objects including 6D object poses which are difficult to annotate for learning an object’s behavior while it interacts with hands. Instead, the framework synthesizes the mean curvature of the hand mesh model to encode the hand surface geometry in 3D space. Additionally, our method learns the hand grasp type which is highly correlated with the hand action. From our experiment, we notice that using hand grasp type and mean curvature of hand increases the performance of the hand action recognition."
 
 # Summary. An optional shortened abstract.
-summary: "arXiv preprint arXiv:2109.03783"
+summary: "arXiv preprint arXiv:2109.03783, 2021"
 
 tags: []
 categories: []
