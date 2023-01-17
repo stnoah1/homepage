@@ -5,12 +5,13 @@ set -e
 
 printf "\033[0;32mDeploying updates to GitHub...\033[0m\n"
 
+
 # Build the project.
 hugo -t academic # if using a theme, replace with `hugo -t <YOURTHEME>`
 
 # update CV
 printf "\033[0;32mUpdate CV.pdf...\033[0m\n"
-wget https://github.com/stnoah1/CV/raw/master/CV.pdf -O static/files/CV.pdf
+wget https://github.com/stnoah1/CV/raw/master/CV.pdf -O public/files/CV.pdf
 
 
 # Commit changes.
@@ -20,22 +21,22 @@ if [ -n "$*" ]; then
 fi
 
 # Commit source code
-git pull
-git add .
+#git pull
+#git add .
 
-git commit -m "$msg"
+#git commit -m "$msg"
 
 ## Push source and build repos.
-git push origin master
+#git push origin main
 
 # Go To Public folder
 cd public
 
 # Add changes to git.
-#git pull
+git pull
 git add .
 
 git commit -m "$msg"
 
 # Push source and build repos.
-git push -u origin main 
+git push -u origin main

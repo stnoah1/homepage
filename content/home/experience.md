@@ -22,7 +22,7 @@ date_format = "Jan 2006"
   company = "Honda Research Institute USA"
   company_url = "http://usa.honda-ri.com"
   location = "San Jose, CA, USA"
-  date_start = "2023-01-16"
+  date_start = "2023-01-17"
   date_end = "2023-04-25"
   description = """
   Conduct research on human pose prediction for autonomous vehicles.
