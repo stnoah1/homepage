@@ -17,20 +17,31 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+  title = "Research Intern"
+  company = "Toyota Research Institute"
+  company_url = "https://www.tri.global"
+  location = "Los Altos, CA, USA"
+  date_start = "2023-05-06"
+  date_end = "2023-08-17"
+  description = """
+  Conduct research on human-robot interaction.
+  """
 [[experience]]
   title = "Research Intern"
   company = "Honda Research Institute USA"
-  company_url = "http://usa.honda-ri.com"
+  company_url = "https://usa.honda-ri.com"
   location = "San Jose, CA, USA"
   date_start = "2023-01-17"
-  date_end = "2023-04-25"
+  date_end = "2023-05-05"
   description = """
   Conduct research on human pose prediction for autonomous vehicles.
   """
 [[experience]]
   title = "Research Intern"
   company = "Honda Research Institute USA"
-  company_url = "http://usa.honda-ri.com"
+  company_url = "https://usa.honda-ri.com"
   location = "San Jose, CA, USA"
   date_start = "2022-05-23"
   date_end = "2022-08-19"
